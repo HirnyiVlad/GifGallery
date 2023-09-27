@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GifGallery" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+    </style>
+
+    <style name="Theme.GifGallery" parent="Base.Theme.GifGallery" >
+        <item name="colorPrimary">@color/statusBarGray</item>
+<!--        <item name="colorPrimaryDark">@color/white</item>-->
+<!--        <item name="android:statusBarColor">@color/white</item>-->
+    </style>
+</resources>
